@@ -25,7 +25,7 @@ WebUI.delay(5)
 //Choose number of people
 WebUI.click(findTestObject('Object Repository/SearchObjects/Page_Flights/div_1 passenger'))
 
-WebUI.delay(5)
+WebUI.delay(6)
 
 WebUI.click(findTestObject('SearchObjects/Page_Flights/div_children aged 212 selected_gws-flights-widgets-numberpicker__flipper-shadow'))
 
