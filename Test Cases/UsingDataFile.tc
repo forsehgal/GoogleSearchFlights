@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UsingDataFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dbf7bb5-ce21-4790-95ac-6f9bc7b0053a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c32b8c0a-c227-442d-ab95-cd864477bace</id>
+      <masked>false</masked>
+      <name>From</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4bd9a86-1475-4589-9c8a-50d968994d3f</id>
+      <masked>false</masked>
+      <name>MidDes1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e2454f4e-c6d7-419d-8037-7d5887e0758d</id>
+      <masked>false</masked>
+      <name>MidDes2</name>
+   </variable>
+</TestCaseEntity>

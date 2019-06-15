@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>5e74ff3e-4bd6-4045-833f-e66ac7283cb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jstcache</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flt-app&quot;)/div[@class=&quot;gws-flights__flex-column gws-flights__flex-grow&quot;]/main[@class=&quot;gws-flights__flex-column gws-flights__active-tab gws-flights__home-page&quot;]/div[@class=&quot;gws-flights__center-content gws-flights__scrollbar-padding&quot;]/div[@class=&quot;gws-flights__homepage-form gws-flights-form__search-form gws-flights-form__homepage&quot;]/div[@class=&quot;gws-flights-form__form-card&quot;]/div[@class=&quot;gws-flights-form__form-content&quot;]/div[@class=&quot;gws-flights-form__secondary-constraints gws-flights__flex-box&quot;]/div[1]/dropdown-menu[1]/div[@class=&quot;mSPnZKpnf91__container&quot;]/div[@class=&quot;gws-flights__white-focus gws-flights-form__menu-button&quot;]/span[@class=&quot;gws-flights-form__menu-button-icon&quot;]/span[@class=&quot;z1asCe K1bG5d&quot;]/svg[1]</value>
+   </webElementProperties>
+</WebElementEntity>

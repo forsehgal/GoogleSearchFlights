@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuiteForDataFileTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>94a2866e-9c69-47c0-95aa-a0adb5600615</testSuiteGuid>
+   <testCaseLink>
+      <guid>427ef8a1-fb8b-49ac-a5ee-980c3f035f20</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/UsingDataFile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1d22bc45-660f-4a7a-bdf2-1b3c965b4f5e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataForCity1</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>1d22bc45-660f-4a7a-bdf2-1b3c965b4f5e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>From</value>
+         <variableId>c32b8c0a-c227-442d-ab95-cd864477bace</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1d22bc45-660f-4a7a-bdf2-1b3c965b4f5e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MidDes1</value>
+         <variableId>e4bd9a86-1475-4589-9c8a-50d968994d3f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1d22bc45-660f-4a7a-bdf2-1b3c965b4f5e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MidDes2</value>
+         <variableId>e2454f4e-c6d7-419d-8037-7d5887e0758d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OnePersonRoundTrip</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12c5ebfe-bb86-4e75-8afa-abcfd55fdda9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc5e17d2-419f-4b36-8141-d7f16a5d9516</id>
+      <masked>false</masked>
+      <name>To</name>
+   </variable>
+</TestCaseEntity>
